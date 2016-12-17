@@ -1,0 +1,17 @@
+body{
+	background-image: url("backimg.jpg");
+	background-size: 100%;
+	background-attachment: fixed;/*important*/
+	font-family: "montserrat";
+}
+*{
+	color: white;
+	font-family: "Montserrat";/*google font*/
+}
+h2{
+	display: inline;
+
+}
+#start{
+	margin: 10px;
+}
